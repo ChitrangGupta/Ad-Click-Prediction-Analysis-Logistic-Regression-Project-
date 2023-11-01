@@ -1,6 +1,7 @@
 # Ad Click Prediction Analysis (Logistic Regression Project)
 
 **Summary:**
+
 The analysis conducted on the advertising dataset has provided valuable insights into user behavior regarding ad interaction. The logistic regression model developed showed promising performance, achieving an accuracy of 93%. This success highlights the potential for predicting whether a user will click on an ad based on various features. Here are some key observations and suggestions:
 
 **Key Observations:**
@@ -35,4 +36,5 @@ The analysis conducted on the advertising dataset has provided valuable insights
    - Utilize timestamp data to understand when users are most likely to click on ads. Time-targeted advertising could significantly improve click-through rates.
 
 **Conclusion:**
+
 The insights gained from the dataset offer a solid foundation for refining ad strategies and targeting the right audience. By implementing these recommendations, advertisers can optimize their campaigns, leading to improved user engagement and increased click-through rates. Regularly monitoring and updating these strategies will ensure adaptability to changing user behaviors and market trends.
